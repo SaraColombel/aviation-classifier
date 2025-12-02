@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+numpy
+pillow
+matplotlib
+scikit-learn
+streamlit
+jupyter
