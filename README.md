@@ -13,3 +13,10 @@ Ce projet vise à classifier différentes parties d'un avion (ex : aile, cockpit
 - Charger un dataset d'images de pièces / parties d'avion
 - Entraîner un modèle de classification simple
 - Déployer une petite interface web pour tester des images et afficher la prédiction
+
+# Classes retenues (v1) :
+- cockpit
+- engine
+- tail
+- wings
+- wheels
